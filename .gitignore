@@ -2,7 +2,7 @@
 .project
 test-cases/
 *.class
-out/
+out*
 .idea
 *.iml
 *.jar
